@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /$
+
+Sitemap: http://winnipoker.pyladies.cz/sitemap.xml
